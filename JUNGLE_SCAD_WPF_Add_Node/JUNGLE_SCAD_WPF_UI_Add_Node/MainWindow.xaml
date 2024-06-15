@@ -1,0 +1,56 @@
+﻿<Window x:Class="JUNGLE_SCAD_WPF_UI_Add_Node.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JUNGLE_SCAD_WPF_UI_Add_Node"
+        mc:Ignorable="d"
+        Title="Добавление узла" Height="250" Width="500">
+    <Window.Resources>
+        <Style x:Key="my_label" TargetType="Label">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5 0 0 0"/>
+        </Style>
+        <Style x:Key="my_textBox" TargetType="TextBox">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5 0 0 0"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="1.2*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Имя узла" Style="{StaticResource my_label}" Grid.Row="0" Grid.Column="0"/>
+        <Label Content="координата X" Style="{StaticResource my_label}" Grid.Row="1" Grid.Column="0"/>
+        <Label Content="координата Y" Style="{StaticResource my_label}" Grid.Row="2" Grid.Column="0"/>
+        <Label Content="координата Z" Style="{StaticResource my_label}" Grid.Row="3" Grid.Column="0"/>
+        <TextBox x:Name="tb_name" 
+            Style="{StaticResource my_textBox}"
+            Text="Узел № 1" Grid.Row="0" Grid.Column="1"/>
+        <TextBox x:Name="tb_x" 
+            Style="{StaticResource my_textBox}"
+            Text="0" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="tb_y" 
+            Style="{StaticResource my_textBox}"
+            Text="0" Grid.Row="2" Grid.Column="1"/>
+        <TextBox x:Name="tb_z" 
+            Style="{StaticResource my_textBox}"
+            Text="0" Grid.Row="3" Grid.Column="1"/>
+        <Button x:Name="btn_Add_Node" Margin="5" 
+            
+            Grid.Column="0" Grid.Row="4" Content="Вставить узел" Click="btn_Add_Node_Click"/>
+        <Button x:Name="btn_Close" Margin="5" 
+                
+            Grid.Column="1" Grid.Row="4" Content="Выход" Click="btn_Close_Click"/>
+    </Grid>
+</Window>

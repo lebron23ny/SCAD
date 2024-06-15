@@ -1,0 +1,8 @@
+C:\ProgramData\SCAD Soft\Plugins\C_lib\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node.dll
+C:\ProgramData\SCAD Soft\Plugins\C_lib\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\SCAD++\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node\obj\Debug\JUNGLE_SCAD_WPF_Add_Node.csproj.AssemblyReference.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\SCAD++\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node\obj\Debug\JUNGLE_SCAD_WPF_Add_Node.csproj.CoreCompileInputs.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\SCAD++\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node\obj\Debug\JUNGLE_SCAD_WPF_Add_Node.csproj.CopyComplete
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\SCAD++\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node\obj\Debug\JUNGLE_SCAD_WPF_Add_Node.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\SCAD++\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node\obj\Debug\JUNGLE_SCAD_WPF_Add_Node.pdb
+C:\ProgramData\SCAD Soft\Plugins\C_lib\JUNGLE_SCAD_WPF_Add_Node\JUNGLE_SCAD_WPF_Add_Node.tlb
