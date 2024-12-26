@@ -1,0 +1,11 @@
+C:\Users\lebro\ProgramData\SCAD Soft\Plugins\C_lib\CreateFrame\SCAD_CreateFrame.dll
+C:\Users\lebro\ProgramData\SCAD Soft\Plugins\C_lib\CreateFrame\SCAD_CreateFrame.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\SCAD++\SCAD_CreateFrame\obj\Debug\SCAD_CreateFrame.csproj.AssemblyReference.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\SCAD++\SCAD_CreateFrame\obj\Debug\SCAD_CreateFrame.csproj.CoreCompileInputs.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\SCAD++\SCAD_CreateFrame\obj\Debug\SCAD_CreateFrame.csproj.CopyComplete
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\SCAD++\SCAD_CreateFrame\obj\Debug\SCAD_CreateFrame.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\SCAD++\SCAD_CreateFrame\obj\Debug\SCAD_CreateFrame.pdb
+C:\Users\lebro\ProgramData\SCAD Soft\Plugins\C_lib\CreateFrame\SCAD_CreateFrame.tlb
+C:\ProgramData\SCAD Soft\Plugins\C_lib\CreateFrame\SCAD_CreateFrame.dll
+C:\ProgramData\SCAD Soft\Plugins\C_lib\CreateFrame\SCAD_CreateFrame.pdb
+C:\ProgramData\SCAD Soft\Plugins\C_lib\CreateFrame\SCAD_CreateFrame.tlb

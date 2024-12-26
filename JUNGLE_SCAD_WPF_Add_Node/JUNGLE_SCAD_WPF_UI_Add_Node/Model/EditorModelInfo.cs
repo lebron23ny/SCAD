@@ -11,6 +11,7 @@ namespace JUNGLE_SCAD_WPF_UI_Add_Node.Model
         /// <summary>
         /// Имя узла
         /// </summary>
+        /// 
         public string Name { get; set; } = "Узел # ";
 
 

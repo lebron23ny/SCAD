@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JUNGLE_SCAD_WPF_Add_Node",
+    "\\JUNGLE_SCAD_WPF_Add_Node\\JUNGLE_SCAD_WPF_UI_Add_Node",
+    "\\JUNGLE_SCAD_WPF_Add_Node\\JUNGLE_SCAD_WPF_UI_Add_Node\\Model"
   ],
-  "SelectedNode": "\\C:\\Users\\lebro\\Source\\Repos\\SCAD",
+  "SelectedNode": "\\JUNGLE_SCAD_WPF_Add_Node\\JUNGLE_SCAD_WPF_UI_Add_Node\\Model\\EditorModelInfo.cs",
   "PreviewInSolutionExplorer": false
 }
